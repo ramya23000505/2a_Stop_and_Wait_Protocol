@@ -1,5 +1,5 @@
 # 2a_Stop_and_Wait_Protocol
-#### Date:
+### Date:
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
@@ -10,6 +10,8 @@ To write a python program to perform stop and wait protocol
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
+#### RAMYA R
+#### Reister Number: 21223230169
 ### Client:
 ```
 import socket
